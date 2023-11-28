@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactEx2/static/css/main.09ce0f36.css",
+    "main.js": "/reactEx2/static/js/main.56a67e7b.js",
+    "index.html": "/reactEx2/index.html",
+    "main.09ce0f36.css.map": "/reactEx2/static/css/main.09ce0f36.css.map",
+    "main.56a67e7b.js.map": "/reactEx2/static/js/main.56a67e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ce0f36.css",
+    "static/js/main.56a67e7b.js"
+  ]
+}
